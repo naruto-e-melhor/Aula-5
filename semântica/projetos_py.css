@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+}
+main{
+    color: white;
+}
+#pygame{
+    color: white;
+    border: 3px solid white;
+}
+#automatizacao{
+    color: white;
+    border: 3px solid white;
+}
+a{
+    color: rgb(0, 204, 255);
+}
+nav ul{
+    color: rgb(0, 204, 255);
+    box-sizing: border-box;
+    padding: 10px;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+nav ul li:hover{
+    color: red;
+}
+nav ul li a:hover{
+    color: red;
+}
+#wPython{
+    color: white;
+    border: 3px solid white;
+}

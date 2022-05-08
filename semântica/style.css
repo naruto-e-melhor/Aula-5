@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+h1{
+    color: hsl(193, 78%, 79%);
+}
+h2{
+    color: yellow;
+}
+p{
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid white;
+    text-align: justify;
+    color: white;
+}
+img{
+    width: 300px;
+    width: 300px; 
+}
+a{
+    color: hsl(193, 78%, 79%);
+    margin-left: 10px;
+    font-size: 20px;
+}
+nav ul{
+    color: blue;
+    box-sizing: border-box;
+    padding: 10px;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+nav ul li a:hover{
+    color: red;
+}
+.rodape{
+    border: none;
+    font-size: 30px;
+    color: red;
+}
+#python{
+    border: none;
+}
+#inicio{
+    border: none;
+}
+#java{
+    border: none;
+}
+#c{
+    border: none;
+}
